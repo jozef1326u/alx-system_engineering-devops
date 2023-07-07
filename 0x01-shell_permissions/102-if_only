@@ -1,2 +1,2 @@
 #!/bin/bash
-chmow --from=guillaume betty hello
+chmow --from=betty guillaume hello
