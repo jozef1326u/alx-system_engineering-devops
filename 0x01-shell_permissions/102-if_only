@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmow --from=guillaume betty hello
+=======
+chown --from=guillaume betty hello
+>>>>>>> 86a9fdc403350f37e1c73bf2dccf171fe2210140
